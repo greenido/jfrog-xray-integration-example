@@ -25,6 +25,15 @@ curl -H "Content-Type: application/json" -X POST -d '{"components" : [ { "compon
 
 ☀️ When you send inforamtion to Xray (as JSON) please give it few seconds so consume it.
 
+### The results in Xray
+
+This is the screen we can use in order to find the new information we added:
+![](https://cdn.glitch.com/012b123f-b0cb-4bfd-8f5b-223b2d9ff1fb%2FScreen%20Shot%202019-12-04%20at%2011.59.28%20AM.png?v=1575489615429)
+
+This is the new custom Violation with the full details we provided in this example
+![](https://cdn.glitch.com/012b123f-b0cb-4bfd-8f5b-223b2d9ff1fb%2FScreen%20Shot%202019-12-04%20at%2011.59.49%20AM.png?v=1575489621549)
+
+
 ### Component Identifiers
 Several endpoints require the use of a component identifier which must be formatted, according to its package type, using the convention described below:
 
