@@ -1,5 +1,7 @@
 # An example to a REST API Server that works with JFrog Xray Custom Integrations
 
+![](https://greenido.files.wordpress.com/2019/12/screen-shot-2019-12-04-at-12.47.25-pm.png?w=1024)
+
 This projects implements a simple RESTful API that processes HTTP requests that Xray will send with [Custom Integration](https://www.jfrog.com/confluence/display/XRAY/Integrations).
 
 It makes use of [Express.js](http://expressjs.com/), a minimal and flexible Node.js framework that includes a myriad of HTTP utility methods for quickly creating robust APIs. We also use the [Body Parser](https://github.com/expressjs/body-parser) package, which is Node.js middleware that allows us to process any POST requests we receive.
