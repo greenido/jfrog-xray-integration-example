@@ -1,4 +1,4 @@
-# An example to a REST API Server that works with JFrog Xray
+# An example to a REST API Server that works with JFrog Xray Custom Integrations
 
 This projects implements a simple RESTful API that processes HTTP requests that Xray will send with [Custom Integration](https://www.jfrog.com/confluence/display/XRAY/Integrations).
 

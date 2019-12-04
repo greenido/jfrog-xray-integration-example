@@ -16,6 +16,7 @@ var bodyParser = require("body-parser");
 
 var app = express();
 
+// In case we get a 'big' payload from Xray
 app.use(bodyParser.json( {limit: '5mb', extended: true} ));
 app.use(bodyParser.urlencoded({ limit: '5mb', extended: true }));
 
@@ -23,7 +24,7 @@ app.use(bodyParser.urlencoded({ limit: '5mb', extended: true }));
 var routes = require("./routes.js")(app);
 
 //
-// Start the (rest API) party 🚴
+// Start the (rest API) party
 //
 var server = app.listen(3000, function() {
   console.log("🛹 Listening on port %s", server.address().port);

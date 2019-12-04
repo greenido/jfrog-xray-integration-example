@@ -4,6 +4,7 @@
 //Date: Dec 2019
 //
 //
+//
 // This defines three routes that our API is going to use.
 //
 var routes = function(app) {
@@ -18,9 +19,7 @@ var routes = function(app) {
               <b>curl -H "Content-Type: application/json" -X POST -d \'{"components" : [ { "component_id": \
              "gav://ant:ant:1.6.5", "blobs": [ "97282a3b066de4ee4c9409979737f3911f95ceab" ] } ], "context" : "project_id" }\' \
               https://xray-api-1.glitch.me/xray/api/test </b> \
-              <br><br> <img src="https://source.unsplash.com/random" alt="random image for the smile" /> \
-             </p>'
-    );
+              <br><br> <img src="https://source.unsplash.com/random" alt="random image for the smile" /> </p>');
   });
 
   //
