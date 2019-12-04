@@ -4,11 +4,13 @@ This projects implements a simple RESTful API that processes HTTP requests that 
 
 It makes use of [Express.js](http://expressjs.com/), a minimal and flexible Node.js framework that includes a myriad of HTTP utility methods for quickly creating robust APIs. We also use the [Body Parser](https://github.com/expressjs/body-parser) package, which is Node.js middleware that allows us to process any POST requests we receive.
 
+For some background check this [post](https://greenido.wordpress.com/2019/12/04/how-to-build-an-integration-with-jfrog-xray/) or this [one on dev.to](https://dev.to/greenido/how-to-build-an-integration-with-jfrog-xray-3pe3)
+
 ## Getting Started
 
 Check the routes.js file and see the end-points that are being used.
 The main ones are:
-1. /xray/api - Get the components from Xray and return the ones which we have more specific info on them back to Xray. 
+1. /xray/api - Get the components Ids from Xray and return the ones in which we have more specific information on back to Xray.
 2. /xray/api/checkauth - To check the authentication with Xray. You will have a 'test url' in Xray UI.
 3. /xray/api/test - Testing this server.
 
