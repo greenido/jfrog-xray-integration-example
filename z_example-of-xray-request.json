@@ -1,0 +1,1403 @@
+{
+  "components": [
+    {
+      "component_id": "generic://sha256:a8a33d96b4e7acb10a1e637ccc316d5e823debfa5c64704b4935af982bd79926/sha256__a8a33d96b4e7acb10a1e637ccc316d5e823debfa5c64704b4935af982bd79926.tar.gz",
+      "blobs": [
+        "adda04e230fc5afbd2b445b27927a811feb32f9f"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:753e3a10851ea781c8711157bbc0dab3dab5676cd2d153e084d4d2c847bf570d/subdirlink.tar",
+      "blobs": [
+        "758a0ca9a945c3af85944eaeed985da5d353f1cd"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:shadow:1:4.4-4.1",
+      "blobs": [
+        "406e9efcbd82569a796e92cd69f55fa68ab6c556"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:b6c455acd4f906040f97b01823a79e7286ecf797c179d2464ce4e8506b9428f4/72613.bz2",
+      "blobs": [
+        "f451f7641824ad69117b509bc26cc1d6307946c5"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:fd28470d8ec006203e03d13aa53a2b4ce0f1f2c41e5aedba50203ae7a315dcf5/cdir_offset.zip",
+      "blobs": [
+        "cc71d6451c72931aef9b481d2c8e3e0831fc40c4"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:997a6ce122e51b405fc4a15aa8154cd985325017cc57f58a75dda6cac9b4d9e9/frontcontroller4.phar.tar",
+      "blobs": [
+        "6dfc524c7a2358626271542f4539f5a03cfdaaf9"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:a7503db1ca9ef0bb5845f5def51ca42ad71c0496118b6974445ee858bb397646/bug70019.zip",
+      "blobs": [
+        "9f8177a79bb9157922c02559f6fea45602467da3"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:gzip:1.6-5",
+      "blobs": [
+        "d62e1baeda195b9063323b54d8df0aac72555a1a"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:pcre3:2:8.39-3",
+      "blobs": [
+        "ad54db92c4059c087a1994452e61fe6e6378a5e7"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:libssh2:1.7.0-1",
+      "blobs": [
+        "602e8cdba3bac20113475ce0af41955e2da9164f"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:libedit:3.1-20160903-3",
+      "blobs": [
+        "f9d795655dab7bf10ab5d83acc5a631332579b32"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:8ae7498b01f40e9d2a04df8a8a91cc0b180eb9eb64b78129f59a6d6ab547816b/bug69958.tar",
+      "blobs": [
+        "9b077bbd55fc3718e25dd9b80b89423cd9495633"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:837f890d54bbe22f251a12543163c98f57222204b30afdb7b6e7e6bbe3aa141c/bug71488.tar",
+      "blobs": [
+        "c2fb88c53529dd2c01c29a1eb57a3444cf09187a"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:65c5a7a14357a2c4b282e19286eddb854e87e3f030bd428a54de1953940d0642/pecl12414.zip",
+      "blobs": [
+        "43d5f05ee77c504c629dfd607834050cd9426435"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:7d7fce03ea4fb8be2f08c91a8abeac82d201146e3ecb66a7cdfae2c1132c1daa/test.zip",
+      "blobs": [
+        "2505f7c6053a70e4d554e32fd1f0c789c3af2e3c"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:e1062fd0605a7573b74b18dc834091cbb94662b46863858735775181fd01b55c/sha256__e1062fd0605a7573b74b18dc834091cbb94662b46863858735775181fd01b55c.tar.gz",
+      "blobs": [
+        "63d419abc155acd6bac8cdc5dff17cd669010d62"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:57e7e56f13a716dca4f13759b400a1a0f6f73018d99459944efcad9712ff22b3/disknumber.zip",
+      "blobs": [
+        "10b478f017d81d2b82263f63ea93e40f1e70daa2"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:350207dcf1b7e69d73ee5e688ec3f1bb6576481773105b8635193dc7fe5010bb/sha256__350207dcf1b7e69d73ee5e688ec3f1bb6576481773105b8635193dc7fe5010bb.tar.gz",
+      "blobs": [
+        "2ed16efb898003a6890091032a5042a38c12d662"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:tar:1.29b-1.1",
+      "blobs": [
+        "e9b208668987dff49e851f49e4802015e5ef8ad5"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:cdebconf:0.227",
+      "blobs": [
+        "b8d3868b443cd559c6df530ce5cec0e7d4b74a9a"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:eb4d46619bf6ae4bee12b201fcd65801a47a6b4919edf2d8e18469a755828a1d/badalias5.phar.zip",
+      "blobs": [
+        "3c87e10e37520d4c067f79fc47477a52698d480c"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:dea3d7dbd0ca050c0ca8c6e369b4e2612ded8e739690f1c729a3d5b4324613d9/compress_unsup6.zip",
+      "blobs": [
+        "43b213c9f4ee0f19919f86d6db2448223d42753a"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:re2c:0.16-2",
+      "blobs": [
+        "a7a2c780ac081026ffbd3a780e53699fed9a1653"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855/.wh.mpm_event.conf",
+      "blobs": [
+        "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:dadf8fb735d58a33bc82909d03fd195e4cd6c4588e3f5076820f573962f6664c/bug40228.zip",
+      "blobs": [
+        "5a5423b674bb9fcfe046e2f8621a552b2dbebdd2"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:4ae0587b156cf62b535123774c9acdc7b5e83a330b2a61d2343f6ae5e2db07ac/compress_unsup10.zip",
+      "blobs": [
+        "01571ea372ce568734897b82b15be15105546d99"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:e2fsprogs:1.43.4-2",
+      "blobs": [
+        "0e216bc327a5689c2c8480dba07b5bd3d5c7cfe4"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:apr-util:1.5.4-3",
+      "blobs": [
+        "b342d8f20da0b5726d450093957599d81820e855"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:file:1:5.30-1+deb9u2",
+      "blobs": [
+        "b31bc2077463d11dba1ebc964c0c99728c712a3c"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:pam:1.1.8-3.6",
+      "blobs": [
+        "53f13995a1e38059c69efdd93f853e6a381dfff7"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:7f6711a5551891fe093dcfd2676a3df99f394de5cccaef13ba5ae315cfc1a40d/frontcontroller5.phar.tar",
+      "blobs": [
+        "22fdd044bb90da68a251b125530e86ec67f82414"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:ustr:1.0.4-6",
+      "blobs": [
+        "011653cf7b2ab8e2f8e7efd2f7d61534a17a975d"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:93f2b1b5a40d74e7b30f16efea1b04ea4b5093ea9a0d8bed96b1b852b9badac7/bug71498.zip",
+      "blobs": [
+        "3f91bad17cc22580f95f6616c8144504f75e8d62"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:7d80562882aeb14636cf196861d1eca065747b02f3d64139a040d1f835f362fe/bzip2.zip",
+      "blobs": [
+        "4ee3960735bf8d56750ea297d1f709b02632ff47"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:28d2d75a442553ef9e1242b12d9bf4fd91bc95d67b23b88fee7f78f0c7be88d2/bug70752.zip",
+      "blobs": [
+        "4db71ee229a5f17c30792f566589c3bddad8863e"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:37007e29219807979c0fc57591ff103c795c0c60438a29b6ca8c6ad79b70058e/sha256__37007e29219807979c0fc57591ff103c795c0c60438a29b6ca8c6ad79b70058e.tar.gz",
+      "blobs": [
+        "fa619819dd9ef1de860547fb7805577c27d40cbe"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:ba7450bf16ceb8c941ef90b5fd59372f02ba46de2941d535d945ce25aac2d888/zfapp.tgz",
+      "blobs": [
+        "fb121a51a5bb0f2cf97d6c0b5efdee831f5fc339"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:adduser:3.115",
+      "blobs": [
+        "180d13b93eee465da90f10e7004ef191ff3aba87"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:995be5b1090dcd38207ef4759ee6b320a028bb1915778a04d8b813cbb2000bcf/frontcontroller10.phar.zip",
+      "blobs": [
+        "1b96003de460181a4a00bca10375a23cb3510698"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:0c097fb42bdf119fe9e2ec94d7793a0cdd8074b873a8c6baef17393f88d85dde/badalias3.phar.zip",
+      "blobs": [
+        "d55ca27257bce0247e4cd9bc2e19f6cb906e7185"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:ef0cf24dc4ce44c6a6a34e0187367025b43c16945c072d2c85abce7d9dca7487/bug72928.zip",
+      "blobs": [
+        "c8f684288c44440bce78d688efa5ac620180091e"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:d9f072d61771f0bc903b453eca2aa1816ee9aaae195e7be586492a38619c45ce/sha256__d9f072d61771f0bc903b453eca2aa1816ee9aaae195e7be586492a38619c45ce.tar.gz",
+      "blobs": [
+        "a5c1522779660646de39f335aa98f293e5996e63"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:66c568f066021472c63b4a98c3a46e4b4e607e9080aec3efa350416ea11d5857/test1.zip",
+      "blobs": [
+        "2d21271e787fe833b2c3b93f2db9132a2e7d4af6"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:xz-utils:5.2.2-1.2",
+      "blobs": [
+        "450d9bc7ed389cd2e9068e1218a5ba180c7335f8"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:mpclib3:1.0.3-1",
+      "blobs": [
+        "c84c0dc85a46eba6f811db6aa921b3a503b03c3f"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:b5225ada7cd739ffca26c6f6306ea821bc8ee4c4210d64ebb99f0c222f179992/badalias5.phar.tar",
+      "blobs": [
+        "60540eb1a8fad31387dba5bd6f5b5e227983cec2"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:base-files:9.9+deb9u6",
+      "blobs": [
+        "73a62f2d953f9cb17040fa60d8fc1b3ca9a90870"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:345cabc58d394b47a19aea3d134259df04ef76f750109f926e5145a17d218df2/badalias4.phar.zip",
+      "blobs": [
+        "662e6c628061d3b91cf116a5a5559177e46a26ea"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:ee04e2bbf04a41ed90842c0d8e6208b07f0c3bf96c1ffe9172eeba32d9f4238e/bug64343.tar",
+      "blobs": [
+        "d947696b758640aae47d3055b78b172d108c04fc"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:9470c9c40b27b8519544f028aad6e49ffd6e3540068a95555ed7ed2c3998e220/frontcontroller11.phar.zip",
+      "blobs": [
+        "d4bf598a219127284a6d80980e7eddcaa6d8e047"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:8c0c2a1b37f49b73451eebc737bab945c763b5596968ec905441322c8fcde561/compress_unsup18.zip",
+      "blobs": [
+        "8b79235070f689e6efcb5b4a0fa7ea509083e459"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:perl:5.24.1-3+deb9u5",
+      "blobs": [
+        "9d2c6342e0299ef57466cffab99d254905dbd348"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:b6dd79b7cf1cad547581db3e71405b98bc3fa8e99a3a86a34fb6b2fc5a64d90d/Structures_Graph-1.0.3.tgz",
+      "blobs": [
+        "13761cc4788f6c272730abe110a5a5048be18643"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:22579de45852ef2ad398a13373df620cbcc969c9c6db9b130bc7dea32abd22fe/frontcontroller3.phar.tar",
+      "blobs": [
+        "81048ab7b96d84a428d656f2d35cbccb8feb7b2c"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:d5c603b2d23252e7bc8bf3c825fbb5ced761b34042e51015c9bc47bb9c6df9db/P1-1.0.0.tgz",
+      "blobs": [
+        "e92b603c864e93e373fd3119fd5248ea1882601e"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:openldap:2.4.44+dfsg-5+deb9u2",
+      "blobs": [
+        "12d08f2ce6499a2db1a9f24ed550eb1f813be927"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:89d130bea34e6ebba823fc09dbd92ff7e8380d271818852253825d4f75502dde/trunc.tar",
+      "blobs": [
+        "53d18203b40467f15f8b3c4af9c7893e0246bd8e"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:libtasn1-6:4.10-1.1+deb9u1",
+      "blobs": [
+        "46c8d8de81ffb41c908a795143df4962a4b855b1"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:findutils:4.6.0+git+20161106-2",
+      "blobs": [
+        "461d783d40a7d905dafdff7e6fda9472a3842472"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:3667f7fe42104f99444dd7ca5f81784ce4a329d5828e734fb0ef7a8e161e87f4/compress_unsup3.zip",
+      "blobs": [
+        "b856b51955cb8c17886f450d687b035c27b0d009"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:ec702d87d4c28265518a64960d34aee66aed111735e64a9e3fdd83e24fe7b2b6/frontcontroller3.phar.zip",
+      "blobs": [
+        "edf0b6e4b26ff86793e184b3aa16914d161e8703"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:55626c38c5e6f1084d42b215b85ef46ba875294c67fc2aa66018a43ee119d02d/badalias1.phar.zip",
+      "blobs": [
+        "11e3772a9787390ccb38642fdf6f2f0dc264a47b"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:448d69b8bbb42e6f68a8f7e8c073fe86669ac1ebd9822e345e8fb2b8befb581e/count2.zip",
+      "blobs": [
+        "0aa4cbdbf1d81fb27e332de8b42efa91c056c6cf"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855/.wh..wh..opq",
+      "blobs": [
+        "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:expat:2.2.0-2+deb9u1",
+      "blobs": [
+        "b70886752173df2b9f9d22d5fbfdcf6fd5a49b97"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:mawk:1.3.3-17",
+      "blobs": [
+        "3d76094b2b748df67a2bbc047997c1458788d90f"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:cyrus-sasl2:2.1.27~101-g0780600+dfsg-3",
+      "blobs": [
+        "8a46789bd47566844bc38772acfcb08ac160d1b2"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:568597d802c0a741b8218e1acd8717c15bea2f345a269efc2de52cfc47cf0c05/Net_URL-1.0.15.tgz",
+      "blobs": [
+        "919b9e9d26cbef67ce8255c5a93299e8df838c8d"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:pkg-config:0.29-4",
+      "blobs": [
+        "73814653299815b7bcb4aa686b4d13d32a886545"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:krb5:1.15-1+deb9u1",
+      "blobs": [
+        "4becade79314d834dea70b109053cbe881578bce"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:m4:1.4.18-1",
+      "blobs": [
+        "384c1b28358fdf2364997bcd1b2a13a6db5e137e"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:sysvinit:2.88dsf-59.9",
+      "blobs": [
+        "5106089edf0373e77c04be0da1aa58f2d0f39795"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:mpfr4:3.1.5-1",
+      "blobs": [
+        "72f9a061dd097123f4b99f4d1c9f22a1b18d7a86"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:7f164ca8c480a57972b3de4437c18bd13f9aeab2fd569c1979b064423dc879fe/tinylink.tar",
+      "blobs": [
+        "27ae0db509a1b92796bb76dd9ff0a4889219e028"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:sed:4.4-1",
+      "blobs": [
+        "25eefb93af5f428c8f12ada8468c672fa79ac2a9"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:lsb:9.20161125",
+      "blobs": [
+        "ce1fb3dba1d5491c5ce5ddef54014162eecf0727"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:2120131b1e17aedb625b278f9a1564f2dc46cd02fd00e056dfbc04d4bb4464b8/compress_unsup98.zip",
+      "blobs": [
+        "3d4445a4b217ad363453e51c4fb1683c4d664e0f"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:libidn:1.33-1",
+      "blobs": [
+        "12ab46ef4e1a7b07ab3bb7949eff0d531503f6a2"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:897eb020f39e1924b78d1fa234fa0d8efd7bdbe99af87fb3e42f89cbd4678c61/frontcontroller6.phar.zip",
+      "blobs": [
+        "4b1fc4392cfece84b9e6c7454e2d196c597cb23d"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:ab8c5be6e32b1f8d032909dedaaaa4bbb1a209e519abb01a52ce3914f9a13d96/php.tar.xz",
+      "blobs": [
+        "fef2bfd1285325a4ac2c367fab6a9062c144a790"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:util-linux:2.29.2-1+deb9u1",
+      "blobs": [
+        "8e1cb3227c584d3b96657e490c5ca27ae5233b8a"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:glib2.0:2.50.3-2",
+      "blobs": [
+        "7a7b2d344b3af5fd7da47afd64866e9e997c8fc3"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:7be33c258b29fe6db7c8e5cb43a59505754b9c59ee18b33c871e20777fd0746a/frontcontroller2.phar.tar",
+      "blobs": [
+        "9a5add79eb0843a459d2e1151ae2a8112ff28894"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:f1548c2cd3762f0550634038ffb2e4e15a342ff40861121b4236ddc58b768c54/sha256__f1548c2cd3762f0550634038ffb2e4e15a342ff40861121b4236ddc58b768c54.tar.gz",
+      "blobs": [
+        "79b1b9d6ed06e0ac9d9fe9a75f7bcf9336848dd4"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:curl:7.52.1-5+deb9u8",
+      "blobs": [
+        "ef620f41f1562b178fcd6f655964920b5ded271f"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:972f8114cbf5bfc23756adeba33e81aa2972310471393c2bf4d03b6f59ec2d23/compress_unsupunknown.zip",
+      "blobs": [
+        "7b9ddf7b54ef0ea3d64e1ac7514a494ded7b12ad"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:autoconf:2.69-10",
+      "blobs": [
+        "41f83d28db9c1bc40ad26b675f13b240190a8b54"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:libgpg-error:1.26-2",
+      "blobs": [
+        "ade75f9b20b25312663788067a9bcddb92436049"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:debian-archive-keyring:2017.5",
+      "blobs": [
+        "a134b7c864b6f42f23f50fba23f7cb5f03f8640b"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:22e29ea64b4bf5455e320f6f78cab4924a4e3d6579937f7988239b3b4e935904/truncfilename.zip",
+      "blobs": [
+        "010439f7720527eae1d473ecc3db168c751b9e52"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:dee7c43f200551abb046a5deff29efd3e208cc708cd8cc6ceeeffcfc2a37d0c0/badalias2.phar.tar",
+      "blobs": [
+        "4e318e2e8726c43ce720cd3b61c5b5bfbf2f9615"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:libpsl:0.17.0-3",
+      "blobs": [
+        "da03a45ca8f4632ed87a38ee9aa5fbfd4958db85"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855/.wh.mpm_event.load",
+      "blobs": [
+        "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:40fa0bc33cc98f460530ef75a6e90cfcec6468ad1d3574a565f41cc5a444919b/frontcontroller9.phar.tar",
+      "blobs": [
+        "71ac3b57b2a09790f2191c87215ce242666c73eb"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:nghttp2:1.18.1-1",
+      "blobs": [
+        "840459c6c4389807b8f7f07e60a0e5260e7520a0"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:icu:57.1-6+deb9u2",
+      "blobs": [
+        "db6328568cc489d2af109f112f3c9ef90be414eb"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:3378978c52bcfe1881c5bc558e4385d50eedf7fc963eee6a1dcd4020fd020fe7/004_2.txt.bz2",
+      "blobs": [
+        "751c63c374671ef8b4002d6fa73477652285e40a"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:coreutils:8.26-3",
+      "blobs": [
+        "fdb3ddb45d7adf0992b35a2dcc80bda47ecf4910"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:55af684e804cf2acf111c43db76605e1aac7363258f65dd506aaafac00562cf7/zip.zip",
+      "blobs": [
+        "c11201184aac932aa2b700d56da5052bd2fcecfa"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:gnutls28:3.5.8-5+deb9u4",
+      "blobs": [
+        "26d5b112248542663bc3cf3b54bc60a501843b09"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:9127ee491b8cbb83325b81e4f5434f52da9fb843d195e4c565cd7d02ab18726b/filecomment.zip",
+      "blobs": [
+        "de4414c8a1806ddc5b1a991c68ad90149b484883"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:961ad4d2fe16f07e17f8b37f4acc5871f590433f9c0b8dfe3315e87fdd87ecfe/frontcontroller.phar.zip",
+      "blobs": [
+        "dc5ddaed5d911b21295cbd0311c9bc6640bc6b9d"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:mime-support:3.60",
+      "blobs": [
+        "18586dd57560a9c337be4c30f62d2f32c6227ac7"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:f2dba017d521d0d76b7e689e7f17076d2d72afb16a15af31a4fcd47e119fc57f/frontcontroller10.phar.tar",
+      "blobs": [
+        "32dd6f7d7e7dbbcd6a5a4d8bd7cebf2626c2d05c"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:bzip2:1.0.6-8.1",
+      "blobs": [
+        "ff5dd244386d7d374375da8c70f1516388d1a6e7"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:6ba0ad93afb42dcfd4bfb9ac4c0ef1c9847df31e47fcf5e0757858103a7795ae/compress_unsup4.zip",
+      "blobs": [
+        "31112787dce7dba3c870518750af8d804d28f17e"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:af9ff1b9ce5b028cb1a7c3ad2bc442aacb9a8ddd46cb8a41485b947536e3f4f6/sha256__af9ff1b9ce5b028cb1a7c3ad2bc442aacb9a8ddd46cb8a41485b947536e3f4f6.tar.gz",
+      "blobs": [
+        "f2ffe7e360331da6a17155ec023b4f24cddeb708"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:bf59ce8d4b60d484c21a896e89cff01486570b0d0895ee62e259998b21cf5170/bz2_alias.phar.zip",
+      "blobs": [
+        "15ea201efae3b0148eb0f05d3d7a53790ace9e85"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855/.wh.mpm_event",
+      "blobs": [
+        "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      ]
+    },
+    {
+      "component_id": "docker://gae-alerts-il:v1",
+      "blobs": [
+        "4b26370087ec3b90d4a7ab99aa46e8bba3c8286a"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:gnupg2:2.1.18-8~deb9u3",
+      "blobs": [
+        "27a2c4dcd711308c8a891f26fdd7b777d192323a"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:ce74a23ff9cbfb79ddcab46e2388ff04e3ae4c5f4f2180eb5b35c551c2dd4ead/compress_unsup97.zip",
+      "blobs": [
+        "2e7ec6d290ed405284466b461beede11bd5b00cc"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:libxml2:2.9.4+dfsg1-2.2+deb9u2",
+      "blobs": [
+        "65f3d2351677506d20ed24f3ba6394197f6be201"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:nettle:3.3-1",
+      "blobs": [
+        "10891e0c5f408f0ada0ada9410c9204be980f557"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:b6a0dbc2597ce2c8a111c2e3781f87f7c6de1e0ac30c518d68c0e67768b174e8/bug8009.zip",
+      "blobs": [
+        "d4cb5234c2753d84cb14f3e7600dfba5b7317346"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:2f5b12109f363a9bd7ab94522a5f59909e892a8f93f19954551fa63b69debdaa/frontcontroller8.phar.tar",
+      "blobs": [
+        "b788120f52fc99841cebebdc596a048ba54e0d6b"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:3cfcc7b92a3132756600aef8f5a431ccad2b11ed7dadd2dcf3ca5095e4a33abf/badalias4.phar.tar",
+      "blobs": [
+        "ab0192c293c50c7329392e4a88c2c62c5a74cd9d"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:1444e35531b2ac62ae3a9795cd1859ae784a183ba36579bcba50a6d6ca5b3fbf/bug49072.zip",
+      "blobs": [
+        "4948bf0383046b0097942f79b39f3b6180c506c0"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:gcc-defaults:1.168",
+      "blobs": [
+        "c6586ea1f5860a44530218ca1bc8a6cf228fe4d3"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:rtmpdump:2.4+20151223.gitfa8646d.1-1",
+      "blobs": [
+        "f32c72db8d1876c420433c1d6b91f2db69fcce8a"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:apt:1.4.8",
+      "blobs": [
+        "36cff8ba05d6d9c422f0ff3f24280d8ae289aa15"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:5490be84dfb153a4f0bcf87da05d1adfbe5dfc71e6a3ac01e5863e05d1478625/frontcontroller4.phar.zip",
+      "blobs": [
+        "56d4eb2f04e2498f93ac6100a426da9a7e06e1b1"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:9a767900e5f4f6a0e2f6056ace6936fb2dc2e447723008d9214715f6d3cf9e0d/bug71354.tar",
+      "blobs": [
+        "7330e00347ee431b414be9cf847560cfc2697c76"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:libsemanage:2.6-2",
+      "blobs": [
+        "153b235b185f5006572862696b521b3b3b17070d"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:278df45c91b3f7237bf40158b9678f813384bdc951ec17a9b46e83ea25c72648/sha256__278df45c91b3f7237bf40158b9678f813384bdc951ec17a9b46e83ea25c72648.tar.gz",
+      "blobs": [
+        "7410120fb7aeca9aa4469f045675d507b0538590"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:8cf828b3579d37ff804963ea5d37d179552d994ea85846cbf0357d955947a43d/compress_unsup14.zip",
+      "blobs": [
+        "0f0617fafd0a1a2f3e82a3794c3891cbd1fc6920"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:98af8902979aea4195030c6189edac2a470abcdd834648808b0f95bc90a1d0f0/sha256__98af8902979aea4195030c6189edac2a470abcdd834648808b0f95bc90a1d0f0.tar.gz",
+      "blobs": [
+        "6f92ce6e3053ef2b7aacdd07548933516c1294f1"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:dpkg:1.18.25",
+      "blobs": [
+        "97a1d7addc033279b2178485a59a243cad655dcd"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:adace8f04b408a43ff9e25cdb75c0d78336cb9532f18f8cc97674d23ffc849f6/004_1.txt.bz2",
+      "blobs": [
+        "916b78e33690836a5ce22018b40b1969389fff72"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:1584ae3994f61e7bdd0b92a16a0ba515ad3b569c27b5f4c66c0b113616c90a1a/dir.zip",
+      "blobs": [
+        "87b8df02db8cb27911f0b8ac4cb284180e2e01fd"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:fdb02ae26f81678b867c06d64f7bf879454bc4a14afb8ea4cabc38c948a3168a/frontcontroller12.phar.tar",
+      "blobs": [
+        "d7b02c1057625f51b841fa5458b24e51f41ad0ec"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:bash:4.4-5",
+      "blobs": [
+        "98e46daec1a94a36891a58c174f743bc31e0b7f1"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:35ebdcbb2c101fd7bc031d771f5cc8f618099c65000ec68851505c7d0f86239f/compression_methods.zip",
+      "blobs": [
+        "ab5478d8c41206cd58c77896733ca27e30361824"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:90c5789b29d4428062f0e4476626957b25613ba7cf840c7e86acf00650008162/test_with_comment.zip",
+      "blobs": [
+        "3cd56b879a30461d82c16ae75273b7cb3cdda86e"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:841910e1bb78a3a21a0dd48ed2f7e7f3ce7b2b9b91ff54ce6cb96dd6d4572b59/test_with_comment.zip",
+      "blobs": [
+        "1137f50a7fa44dfca344ca3bca043866e266a998"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:661bf9b6e06a70624288403f4a462d872ba4abca22b5c97df62ed0240a1bc782/HTML_CSS-1.5.4.tgz",
+      "blobs": [
+        "9f0019f8d7102bde206bfeefe5a4e51642aa43c7"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:db5.3:5.3.28-12+deb9u1",
+      "blobs": [
+        "5c935be54df3ef77131d10fe1927c1acda6ba6c3"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:8da3784c7aac02d123fc022301feb06c1960414e77f2ff8eb7afdb08abaac7da/72321_2.zip",
+      "blobs": [
+        "42aebb372765e249af6d37a6148dffa684a7d508"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:apache2:2.4.25-3+deb9u6",
+      "blobs": [
+        "78897074bb9e53150f0fc41c145bcb2cf58b5dcc"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:libidn2-0:0.16-1+deb9u1",
+      "blobs": [
+        "01933ef3e0c5288794aad15c0c45e4db672cc06b"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:debconf:1.5.61",
+      "blobs": [
+        "fc54528a359d266ffe6d7d387bb4b9c3d35ca5b0"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:a7a4a791a90d2f112e4b807ce9f9b034b844cfd540fc3717bec479a56de368b9/compress_unsup7.zip",
+      "blobs": [
+        "ffaabc872f9aa9d3e05807e52104edc60321d973"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:lz4:0.0~r131-2",
+      "blobs": [
+        "6319e3844c5f769f2588c0c5c7eb2633b7bd9fec"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:p11-kit:0.23.3-2",
+      "blobs": [
+        "f10e9d451e8be47792647b8e204ed7db18470bed"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:0c097fb42bdf119fe9e2ec94d7793a0cdd8074b873a8c6baef17393f88d85dde/badalias2.phar.zip",
+      "blobs": [
+        "d55ca27257bce0247e4cd9bc2e19f6cb906e7185"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:5f7668a995deb2b5ec9a3eb03ee11c50eedce77bb64b5b3ff54b317cfca90ef2/compress_unsup19.zip",
+      "blobs": [
+        "796abdb5f892dc197088517136ce78eec1a6aea2"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:c713c2236bc23e9ba5933412c76c6ecf2992fde1eb1df2366378734e79d04294/frontcontroller.phar.tar",
+      "blobs": [
+        "42bc5a24da654e4179358e4277722d02d2d17e8c"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:f7dbb1f1ea54b6f9594e3644eb6a69beab7d63f8ac1eff01d30761aed8564fc7/links.phar.tar",
+      "blobs": [
+        "f099866a37399552b70d561a45cb22355e2e1590"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:e29a06f8435d662ac8f638ba91e30c0dd184c7a06616e50d0525f9d3c74d5bfd/bug71331.tar",
+      "blobs": [
+        "3907cafdb0f209a5d6ae99ab3e2310430f48dfdf"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:bf3cd72bc79bf11611f84082b4361ecb7750bc655067e596d565dd958a657f48/nozipend.zip",
+      "blobs": [
+        "cda7ad40a7047560e6026166b7eb85d7c88d318a"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:1724199bbd98809bf46a46e5fb6bd24adda6cb19a2a577859104ae913560b59e/frontcontroller11.phar.tar",
+      "blobs": [
+        "835e0417eb8b77f3c9ebe82efa476f2da1505580"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:e11628c15504b1a8a8ea911efa3ae125f59cf121b2a0e7cde5204e7d2218c790/frontcontroller2.phar.zip",
+      "blobs": [
+        "9067237dd6cd5cbbb41a529a46f31c3b28a5b592"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:177e7ef0df6987e0c5738a1fb5aba98b6b6e7a5fef992e481977dbb5ba3f91be/sha256__177e7ef0df6987e0c5738a1fb5aba98b6b6e7a5fef992e481977dbb5ba3f91be.tar.gz",
+      "blobs": [
+        "6eeb535ee9bb0c1afb28bb1676fda4987a3d1f1a"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:libsepol:2.6-2",
+      "blobs": [
+        "7f746aa8689733baf5de5182f2bb7bfbd1511cf3"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:sqlite3:3.16.2-5+deb9u1",
+      "blobs": [
+        "5a88453a14bd00ecb23e985148f3df077e6d9ed0"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:d33f30dc4e8fb5bd72e4bd0833a3078ce1ca5cbf8dd00f335cfd9f27e0bbb7e3/frontcontroller8.phar.zip",
+      "blobs": [
+        "fc904ce8aff104e4d5c2fd0376a72154df71be36"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:tzdata:2018g-0+deb9u1",
+      "blobs": [
+        "9a1c177ecaefec5accbe321dd4869067be9f99d6"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:libselinux:2.6-3",
+      "blobs": [
+        "5643347187e4c517d178ac6ba13c0e36f6bdd070"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:libcap-ng:0.7.7-3",
+      "blobs": [
+        "5420cf737863ae0218515da93abf5cc7ac8bb013"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:5eb348ece6ef82077f35c1ae6fb84dd350cff066ad462727c9cdde21e070d8d3/72321_1.zip",
+      "blobs": [
+        "f2225078b1a241a7ce7d356021964c3f251a087a"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:5a106c07e08986bf8b8bc23a19f3596095f25750d74ef26e7f9021ddc9b267cc/biglink.tar",
+      "blobs": [
+        "d85b43e4463adc9704c1eeff349eb6131f99880a"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:a781321a35256b74c03c3d24d326e5f30ac62ee88e9d4696cc6d86c9e56963ba/bug72258.zip",
+      "blobs": [
+        "b0df5194bb2dd3859bdd3dfcf46f7eea33db8f65"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:keyutils:1.5.9-9",
+      "blobs": [
+        "366b9bb21618f46c0f6a1ef5e4d5a6b4831e791d"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:a39862fa217ec2d8ad738e214ffd1b1779789f9e40d260700d3b8f96ef48e40c/frontcontroller12.phar.zip",
+      "blobs": [
+        "98f4a889f25d6543eb21db92a2fff87869bb6895"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:procps:2:3.3.12-3+deb9u1",
+      "blobs": [
+        "9632aca3c9ae40717f6c7d52fdae548c2c42df2f"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:audit:1:2.6.7-2",
+      "blobs": [
+        "c31d093baf2562e3021974027f7c0b9f041e9632"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:ddc88cb7737a45c9ab203af4a61067af41a74a1564b25ea0cfd0a29888c12674/frontcontroller6.phar.tar",
+      "blobs": [
+        "1f54fc30265380635aed5da07a10966ff11bd28d"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:a9522e8d97eddb7e9c19ca3438c208ced441d3bfb81b62604c4f28893214d43c/sha256__a9522e8d97eddb7e9c19ca3438c208ced441d3bfb81b62604c4f28893214d43c.tar.gz",
+      "blobs": [
+        "31452d435371780ae7b547a62fce23a2d08027a6"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:apr:1.5.2-5",
+      "blobs": [
+        "28e1ec750d873d32200d4bec50606803928e90d9"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:3fc80e2e8b242fdf4bc58ee2ff61e1f4e75bdf968c203b0c7487bd32a9c6ab61/frontcontroller5.phar.zip",
+      "blobs": [
+        "2be80aa4a9fab43ad0c9f0d4877618d53aedaf56"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:5c58306df5eb5e17b34144a28a2d9d351760ee273ba3350ac3c1a0bc3b850230/bug71391.tar",
+      "blobs": [
+        "5ec2f07e78db65acf0e7b21643379de9e7fcc77f"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:debianutils:4.8.1.1",
+      "blobs": [
+        "95a2abc7fd87c103fdeb4ee645aafa817aa23da6"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:glibc:2.24-11+deb9u3",
+      "blobs": [
+        "643765bfd3f71e84d1e2e8b337f972816cebd7bb"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:d1e979ccdbd035b1859966bbaf82f175d60687ae38ea272c696e8386ad373f39/test.zip",
+      "blobs": [
+        "7b2b443cd27864498cdba398fc9399d7f251f0df"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:1e581e99e32666fb2513cee70742cdddf4c3d66ba6b225f382e63f0154ee708d/test_im.zip",
+      "blobs": [
+        "b8aa6536c57f9b10861cd94b62a163da7512dd73"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:315c1dbca7b41413857312cdad47c7f5f56771ae05fa8a4c8ebe5e5d1fd590e5/metadata.phar.zip",
+      "blobs": [
+        "810c3c5ed8a932a88d7b3cee01adc81c55c2e81b"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:hostname:3.18",
+      "blobs": [
+        "b7b24df46c002ea0902f3949141c598e8e4d958e"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:base-passwd:3.5.43",
+      "blobs": [
+        "81ac8c79b32e5e78f634c8709433cc49385eec93"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855/.wh..wh..opq",
+      "blobs": [
+        "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:e0d4ef95be9f2107907f16f65eb49c53539a06508893ad2dbc290107bc9ec5c8/frontcontroller7.phar.tar",
+      "blobs": [
+        "94539b4fd3458b8d2fa5c86b252a3da05e2b9c6f"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:libbsd:0.8.3-1",
+      "blobs": [
+        "6eaf6f0ac4501c375b4b2fab80982cfcc4e9211e"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:libunistring:0.9.6+really0.9.3-0.1",
+      "blobs": [
+        "17149961a2815f3b30eae94ebd8e6645585b7ed0"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:8c6cb2c47b63351bc70dd62f4e8ee290d84a19b5d1b570a060c23e0cbccae7b9/bug73035.tar",
+      "blobs": [
+        "faafd935638f8198bb7c52f8971c63e368b8e3b4"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:patch:2.7.5-1+deb9u1",
+      "blobs": [
+        "bd83c28cb76800dd9c85430756c668b6c58e87b4"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:2446a276f2e706ac8c64c25a65f9bcc413e4dbc41a023f9b1f98fd071fbf6078/badalias1.phar.tar",
+      "blobs": [
+        "6185995561cc942956d546ee03128523bc49e7b0"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:zlib:1:1.2.8.dfsg-5",
+      "blobs": [
+        "b8b402b741a4d9d4225b86427322667d866ff201"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:dash:0.5.8-2.4",
+      "blobs": [
+        "38d78bcd4a4b4b97926ba625dae99cba616a9cea"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:isl:0.18-1",
+      "blobs": [
+        "b57435e149b892e8d66f03498802eaa1d52921a0"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:d3fa0115302c8cbea68f0f9d21923f8f990b984fcb4086aca3424cf163064836/compress_unsup5.zip",
+      "blobs": [
+        "178d9e2050918558378ba42c1b446704bf8b9f41"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:gmp:2:6.1.2+dfsg-1",
+      "blobs": [
+        "29e21d40f13a3a70fd24b2c953ba21c004cf91d9"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:0edb5296327126f2fc3a6001b9b0d38105a98dcc474e1b00688002faa2855597/68398.zip",
+      "blobs": [
+        "00fc43e03a310f7be893263dfab7a0f71ea58b08"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:b669600479c68bcdf62c6246b758200d5e206216b8e1136eb3139d25be5a5a32/bug70433.zip",
+      "blobs": [
+        "714f85aab418eeaf65901afcd35f19d5462fc8c2"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:init-system-helpers:1.48",
+      "blobs": [
+        "52033c0d88da3b482dcf2398b9dbe3307ed23195"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:031ffd8808d1ad9eb26874d576e18f857740c3882183be925d9bfd5dab74383f/count1.zip",
+      "blobs": [
+        "f72d745c5ccb7752167273e79eb3f1a3162751e2"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:dff58cbeb0688af2c80931c1e26dfc13ae43f12b40b94585f641c0e13103c6b1/extralen_toolong.zip",
+      "blobs": [
+        "ec44ed171406bc8d4f26cd30b6d38dcb9f560d2e"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:libgcrypt20:1.7.6-2+deb9u3",
+      "blobs": [
+        "7248dbd3bf864fb693b7b302c897e082ccb6ab01"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:libsigsegv:2.10-5",
+      "blobs": [
+        "d6cfa338df32551dbe4a471fab8d7141dcc00f5e"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:262296682ca9c09e3ea8a314421b9e9670faef9a41dcb161ee08c1a00536986d/compress_unsup9.zip",
+      "blobs": [
+        "fa3a0c926ef164bd88a56081dcbbc39516a21d2a"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:binutils:2.28-5",
+      "blobs": [
+        "81abde094ff4f6a20f1146b131fbe54c2d7443d1"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:libffi:3.2.1-6",
+      "blobs": [
+        "b3e2912377af90f5170ce0c9bd5e3b2db943973a"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:openssl1.0:1.0.2q-1~deb9u1",
+      "blobs": [
+        "28cdb68041b0bc7d3e3b39bff98957a091d64d04"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:ca-certificates:20161130+nmu1+deb9u1",
+      "blobs": [
+        "d25c47fa83adf55e012bf5278f523fc5a8c0e984"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:ba558f78d2ee4a360e96dfb7d7a8bf87bc1422c727cbde9c1625d38d3d713b90/binarynull.zip",
+      "blobs": [
+        "6424aaae35f4112e36394689140b266e9715799c"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:b07c6b9964284e43f660f83bda8c922b720919878d71562eb18fcac7dc18fbc2/compress_unsup1.zip",
+      "blobs": [
+        "ef0195ce7c5714c7a01f20a5f69e1098e7d8f59d"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:systemd:232-25+deb9u6",
+      "blobs": [
+        "01b8c7e75aae2f0b20ac0eb517f6b179b02d516f"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:diffutils:1:3.5-3",
+      "blobs": [
+        "aa7141f3b9ab2e42bec83485f849509b8ed2b83a"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:437398b6486776ad2f9f1d5d83b6be6d1235f3cd54c0274c6283ad813b9dde19/encrypted.zip",
+      "blobs": [
+        "62ac1a678f9ef57559d8f1c8b8be411aca2ecbce"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:d154aa2270b53fc97a38963bb586ed02bf9b57a70b24fe7c90ef642a9a716de9/notbogus.zip",
+      "blobs": [
+        "6c9f31acf7ba5e82a71cef5ca6e1c915a97ca667"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:33f0f030be6596a78fbe175f396f4bc8557c76c81eb5f0fc555bded9f911b5a6/003.txt.bz2",
+      "blobs": [
+        "529eec454d15738be183544f32ce8023770543e0"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:ee52fe06a05ba1fa8ea1c0d86010a69f55705cb7054e8dc8df9f242fb5f761b9/compress_unsup2.zip",
+      "blobs": [
+        "e388d12743c1d9a81a059d33aad741eacbe334d5"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:lua5.2:5.2.4-1.1",
+      "blobs": [
+        "cbdc0b249e5af46382871756d828f457abfb42b4"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:79014a8f4470535fa7690f75343567ca2fcbab846b0b930fb3c267908e36a35a/frontcontroller7.phar.zip",
+      "blobs": [
+        "3df3ee31064ffc91cfcd8cc20e02e386f5f7af1b"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:gcc-6:6.3.0-18+deb9u1",
+      "blobs": [
+        "7a3f7f058a2b523e15eee04b9cbbb7da3b9bacca"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:1539c4a5c75176c5a7149e1cfa40698c26ca433321346aa7a8db77cc739e59e9/frontcontroller9.phar.zip",
+      "blobs": [
+        "49c04f0fffd34669e8e3760132a7cb1f90a21623"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:attr:1:2.4.47-2",
+      "blobs": [
+        "af097e4979d536838d1f9a3fedd01cfe8f598c16"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:ncurses:6.0+20161126-1+deb9u2",
+      "blobs": [
+        "174a11c70d234bc1ec58058ac271d6fe731df89d"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:991a8c177b778a4b7b1769c44f2e43e89b151614543f272298a5f186a8e39db0/zlib_alias.phar.zip",
+      "blobs": [
+        "f0475c2845a976ea141660ab2f935d0e37e192f5"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:f563f75f7dbb325d95ea5e1a7d10b3ef3fb0231511eeb3a02945eef2e0f209e4/test_procedural.zip",
+      "blobs": [
+        "fc227d4a21274af9f762c51ff44cc00bcffd6276"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:9bf89f2eda244c750e106e9751aa6714e8002accc9ebc4efe784800ff424e2a8/sha256__9bf89f2eda244c750e106e9751aa6714e8002accc9ebc4efe784800ff424e2a8.tar.gz",
+      "blobs": [
+        "46e8dc13f8a433b3b16803dc38d3c82f2fbaedf9"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:grep:2.27-2",
+      "blobs": [
+        "45a6f87fb53cf904a52b42d50daa09cd4dcbaa04"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:gdbm:1.8.3-14",
+      "blobs": [
+        "686cf6159ca57c887b84743f37527b65e80c6ef8"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:66e4a40045b9bab41c0c525241718ba62dde35e3832b3f5829ed555895839c6d/badalias3.phar.tar",
+      "blobs": [
+        "444e6fee4ef53d481aab76f7c6d1f7026bc6b8b4"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:8ba923990f244d0ec64c6b247dc8bc9de707da22c6baca8750767ba674b33ff4/sha256__8ba923990f244d0ec64c6b247dc8bc9de707da22c6baca8750767ba674b33ff4.tar.gz",
+      "blobs": [
+        "2ae7b0e5cfdde4cbca94e9149224f12a4e00772c"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:c0421d5b63d69a2ae480d7c5caa3d21f8105a682249c55f4923f655e73e2f492/sha256__c0421d5b63d69a2ae480d7c5caa3d21f8105a682249c55f4923f655e73e2f492.tar.gz",
+      "blobs": [
+        "e2e64ff479c68e26352848ba21d91e39f0e0b433"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:ddf980755b5d3a28d636fe0b72c5116f34fd1f1c373a8617cd371d50b1dae236/stdin.zip",
+      "blobs": [
+        "932bceea3e2719a44fe2257e643c73733e57d4c5"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:linux:4.9.130-2",
+      "blobs": [
+        "f09a68e52a19ff498fed13302a86c48160cb2f5f"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:make-dfsg:4.1-9.1",
+      "blobs": [
+        "904aa673868d051b42fe251572d7148254bd5ecb"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:openssl:1.1.0j-1~deb9u1",
+      "blobs": [
+        "d4dc7cb69443b37b4b9781a9c8fd220c84072f56"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:e82385291c7d5f8abbd87ae420318c091122d8b8e0be67fa894098313666ac88/links.tar",
+      "blobs": [
+        "778ba973704a3f065bc427bdb6c1cf3b49d3469f"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:ba7450bf16ceb8c941ef90b5fd59372f02ba46de2941d535d945ce25aac2d888/zfapp.tgz",
+      "blobs": [
+        "fb121a51a5bb0f2cf97d6c0b5efdee831f5fc339"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:acl:2.2.52-3",
+      "blobs": [
+        "24f839e7617bba8cb516e934b6f30309128be412"
+      ]
+    },
+    {
+      "component_id": "generic://sha256:f76e300fbe727910ee01d0011a0d011f7cffe00483aea448496dbe49029aa8ad/sha256__f76e300fbe727910ee01d0011a0d011f7cffe00483aea448496dbe49029aa8ad.tar.gz",
+      "blobs": [
+        "7ca66b5faa89a50f53b22805ef7f7ad605b79a98"
+      ]
+    },
+    {
+      "component_id": "deb://debian:stretch:sensible-utils:0.0.9+deb9u1",
+      "blobs": [
+        "835bd4e58fbf1b0ce3a3aee4f38a7862985efd10"
+      ]
+    }
+  ],
+  "context": "project_id"
+}
