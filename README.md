@@ -50,6 +50,8 @@ Several endpoints require the use of a component identifier which must be format
 * Generic file - generic://sha256:<Checksum>/name  -- generic://sha256:244fd47e07d1004f0aed9c156aa09083c82bf8944eceb67c946ff7430510a77b/foo.jar
 * NPM - npm://package:version -- npm://mocha:2.4.5
 * Python - pip://package:version -- pip://raven:5.13.0
+* composer - composer://package:version -- composer://nunomaduro/collision:1.1
+* Golang - go://package:version --  go://github.com/ethereum/go-ethereum:1.8.2
 ```
 
 ### More Info
